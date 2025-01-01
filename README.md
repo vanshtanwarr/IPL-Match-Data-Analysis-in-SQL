@@ -1,10 +1,9 @@
 # IPL-Match-Data-Analysis-in-SQL
 
-# Objective
-
+# <img width="442" alt="image" src="https://github.com/user-attachments/assets/18127e35-6c17-417d-be07-74e17fe77a45" />
 The objective of this project is to perform data analysis on IPL match data using SQL to uncover meaningful insights and patterns.
 
-# Scope <img width="303" alt="image" src="https://github.com/user-attachments/assets/4bcfe20d-fae5-467a-919c-a6a1fd45ccb5" />
+# <img width="303" alt="image" src="https://github.com/user-attachments/assets/4bcfe20d-fae5-467a-919c-a6a1fd45ccb5" />
 
 1. Extracting and transforming IPL match data.
 
@@ -16,7 +15,7 @@ The objective of this project is to perform data analysis on IPL match data usin
 
 <img width="1023" alt="image" src="https://github.com/user-attachments/assets/04156c2e-98ae-4c3f-aa14-722316c3d859" />
 
-# Tools Used<img width="512" alt="image" src="https://github.com/user-attachments/assets/beb2aa67-bfb2-41b0-bafe-d75c25c551b5" />
+# <img width="512" alt="image" src="https://github.com/user-attachments/assets/beb2aa67-bfb2-41b0-bafe-d75c25c551b5" />
 
 1.SQL for data extraction, transformation, and analysis.
 
@@ -24,7 +23,8 @@ The objective of this project is to perform data analysis on IPL match data usin
 
 <img width="1087" alt="image" src="https://github.com/user-attachments/assets/86a42e30-2850-4558-876e-5b29ad51fc23" />
 
-# Conclusion
+# <img width="509" alt="image" src="https://github.com/user-attachments/assets/771fa720-1cf7-40f0-afb1-c93221fc94db" />
+
 
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/fd27b297-3e47-4f7c-9db2-f723089f26fe" />
 
